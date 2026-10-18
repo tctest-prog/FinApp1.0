@@ -1,4 +1,4 @@
-![](images/c4%20System%20Diagram%20-%20FinApp1.0%20(Current).png)
+![](main/c4%20System%20Diagram%20-%20FinApp1.0%20(Current).png)
 
 This repository discusses the production stage system workflow and system components of FinApp1.0, aside from the code itself (which I keep private), as well as why I chose them for this program.
 FinApp1.0 is an online paid multi-user financial web service, applicable to worldwide financial cases.
